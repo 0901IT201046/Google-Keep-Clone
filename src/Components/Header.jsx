@@ -6,7 +6,7 @@ const Header = (props) => {
     <>  
         <div className="header">
           {logo}
-          <h3>Keep</h3>
+          <h3>Google Keep</h3>
         </div>
     </>
   )
